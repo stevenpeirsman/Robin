@@ -1,0 +1,9 @@
+# Required Python libraries
+# paho-mqtt
+# python-dotenv
+# requests
+# opencv-python
+# face-recognition
+# whisper
+# torch
+# transformers

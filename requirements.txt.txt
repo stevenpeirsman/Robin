@@ -1,0 +1,47 @@
+# MQTT and environment config
+paho-mqtt
+python-dotenv
+
+# Speech recognition & AI
+openai-whisper
+transformers
+torch
+torchaudio
+
+# Sensor input & audio
+sounddevice
+pyaudio
+SpeechRecognition
+
+# Vision / face detection
+opencv-python
+face-recognition
+dlib
+
+# Utility and dev tools
+requests
+numpy
+
+# optional dev tools for better dev tooling
+ipykernel
+jupyterlab
+python-lsp-server
+
+
+# imported packages for the microphone continous listening
+opencv-python 
+numpy 
+pyaudio 
+speechrecognition 
+flask 
+socketio 
+torch 
+torchvision
+transformers
+
+#install https://ffmpeg.org/download.html
+
+# run c:/ffmpeg/createpytohnenv.bat to create a python 3,11,9 envirnment since not all packages are supported
+# rerun if new programming session starts: whisper-env\Scripts\activate.bat
+
+#pip install librosa soundfile
